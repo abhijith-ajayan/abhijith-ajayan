@@ -7,7 +7,7 @@
 ```
 👋 Hi, I’m Abhijith Ajayan
 
-❄️ Working as DevOps Engineer
+❄️ DevOps Engineer
 
 ❄️ Cloud platform: 
         - AWS Cloud
