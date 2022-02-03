@@ -20,6 +20,8 @@
         - Ansible
 ❄️ Software Provisioning/Configuration Management:
         - Ansible
+❄️ Machine Image As a Code:
+        - Packer        
 ❄️ Containerization:
         - Docker
 ❄️ Source Code Management/Version Control:
